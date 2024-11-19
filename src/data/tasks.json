@@ -1,0 +1,1894 @@
+[
+  {
+    "id": "TASK-7149",
+    "title": "Check threat quite sort.",
+    "status": "backlog",
+    "label": "feature",
+    "priority": "high",
+    "created_at": "2024-06-30",
+    "last_updated": "2024-08-05",
+    "due_date": null,
+    "estimated_time": "9 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [],
+    "description": "Minute add stuff head. List author instead growth. Maintain music watch.\nFor short indicate detail. Discussion evidence very stop form. Guy matter model power nice.",
+    "comments": [
+      {
+        "author": "John Doe",
+        "comment": "Near including paper.",
+        "date": "2024-08-05"
+      },
+      {
+        "author": "John Doe",
+        "comment": "Campaign building do actually by bag marriage.",
+        "date": "2024-07-23"
+      }
+    ],
+    "associated_links": [],
+    "progress": 16,
+    "blockers": null,
+    "department": "Engineering",
+    "task_type": "bug",
+    "absolute_priority": "low",
+    "dependencies": [
+      "TASK-6865"
+    ]
+  },
+  {
+    "id": "TASK-2841",
+    "title": "Huge turn big care top.",
+    "status": "todo",
+    "label": "feature",
+    "priority": "low",
+    "created_at": "2024-06-28",
+    "last_updated": "2024-09-08",
+    "due_date": null,
+    "estimated_time": "2 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [
+      "Assume tree six wonder player system.",
+      "Everyone occur perhaps lawyer director.",
+      "Respond thus where add.",
+      "Staff onto fly four answer painting church."
+    ],
+    "description": "Project fast white radio meet.\nSeek bring young fact. Glass finally foot peace rate miss really.\nThemselves computer quality ten such simply us. Opportunity significant style kid sister into cut.",
+    "comments": [
+      {
+        "author": "Mike Brown",
+        "comment": "These case sea only put difficult discover.",
+        "date": "2024-07-04"
+      }
+    ],
+    "associated_links": [
+      "https://www.snyder.info/",
+      "http://thompson.net/",
+      "https://meyer.net/"
+    ],
+    "progress": 16,
+    "blockers": null,
+    "department": "QA",
+    "task_type": "documentation",
+    "absolute_priority": "medium",
+    "dependencies": [
+      "TASK-5285"
+    ]
+  },
+  {
+    "id": "TASK-4679",
+    "title": "Goal staff grow reveal husband safe.",
+    "status": "canceled",
+    "label": "bug",
+    "priority": "low",
+    "created_at": "2024-07-04",
+    "last_updated": "2024-07-07",
+    "due_date": null,
+    "estimated_time": "4 days",
+    "assigned_to": "Alice Johnson",
+    "subtasks": [
+      "Issue each set step natural relationship.",
+      "Spring man rule when.",
+      "Level himself rock."
+    ],
+    "description": "Stand system water action artist decide.\nBox almost next. Week sometimes truth white. Education in air business country keep deal.\nPeace me go special development. Law street safe threat effect.",
+    "comments": [
+      {
+        "author": "John Doe",
+        "comment": "Could until want must.",
+        "date": "2024-07-06"
+      },
+      {
+        "author": "Jane Smith",
+        "comment": "Opportunity since amount month become.",
+        "date": "2024-07-06"
+      },
+      {
+        "author": "John Doe",
+        "comment": "Military trouble out drop lot around.",
+        "date": "2024-07-06"
+      }
+    ],
+    "associated_links": [
+      "https://gregory.com/",
+      "https://haney.biz/",
+      "http://www.nelson-wilson.com/"
+    ],
+    "progress": 42,
+    "blockers": "Finish news play claim too suddenly.",
+    "department": "Development",
+    "task_type": "documentation",
+    "absolute_priority": "medium",
+    "dependencies": []
+  },
+  {
+    "id": "TASK-4495",
+    "title": "Quickly point score put country.",
+    "status": "canceled",
+    "label": "documentation",
+    "priority": "high",
+    "created_at": "2024-05-25",
+    "last_updated": "2024-06-13",
+    "due_date": "2024-08-04",
+    "estimated_time": "10 days",
+    "assigned_to": "Bob Lee",
+    "subtasks": [
+      "Include physical bed me however individual few."
+    ],
+    "description": "Body base work. Lose during field fall too despite. Spend like prepare much floor guy course.",
+    "comments": [
+      {
+        "author": "Jane Smith",
+        "comment": "Rich skin task rate long board.",
+        "date": "2024-05-28"
+      }
+    ],
+    "associated_links": [
+      "https://www.holt-lopez.org/",
+      "http://martinez-alvarado.com/"
+    ],
+    "progress": 33,
+    "blockers": null,
+    "department": "QA",
+    "task_type": "feature",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-5103",
+      "TASK-5411",
+      "TASK-4363"
+    ]
+  },
+  {
+    "id": "TASK-2194",
+    "title": "Light side affect phone writer career draw less.",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "low",
+    "created_at": "2024-04-30",
+    "last_updated": "2024-05-28",
+    "due_date": "2024-11-21",
+    "estimated_time": "5 days",
+    "assigned_to": "John Doe",
+    "subtasks": [
+      "Worry opportunity task marriage."
+    ],
+    "description": "Anyone she appear guy view future. Agent continue would contain opportunity gun together.\nRoad follow Republican rise discussion.",
+    "comments": [],
+    "associated_links": [
+      "https://www.chambers-jensen.org/",
+      "http://krueger.org/"
+    ],
+    "progress": 58,
+    "blockers": null,
+    "department": "QA",
+    "task_type": "feature",
+    "absolute_priority": "low",
+    "dependencies": [
+      "TASK-2721",
+      "TASK-8372",
+      "TASK-1831"
+    ]
+  },
+  {
+    "id": "TASK-5868",
+    "title": "Law customer travel product.",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "low",
+    "created_at": "2024-06-20",
+    "last_updated": "2024-07-19",
+    "due_date": "2024-08-31",
+    "estimated_time": "7 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [
+      "Window then land drive to hold night.",
+      "Teach whose time take fall.",
+      "Across can shake family wind add.",
+      "Better white data others executive better bill."
+    ],
+    "description": "Consumer reduce stop themselves discuss adult. Change just poor stock.\nImagine ago participant I. Size continue color street town.\nTry debate save goal because economy also.",
+    "comments": [],
+    "associated_links": [
+      "https://swanson-wright.com/",
+      "http://www.fisher.org/",
+      "http://www.tran.org/"
+    ],
+    "progress": 17,
+    "blockers": null,
+    "department": "Development",
+    "task_type": "feature",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-6691",
+      "TASK-9700",
+      "TASK-9855"
+    ]
+  },
+  {
+    "id": "TASK-2906",
+    "title": "Participant open magazine hope third challenge.",
+    "status": "done",
+    "label": "bug",
+    "priority": "high",
+    "created_at": "2024-02-14",
+    "last_updated": "2024-06-16",
+    "due_date": null,
+    "estimated_time": "1 days",
+    "assigned_to": "John Doe",
+    "subtasks": [
+      "Account free off discuss.",
+      "Guy another administration.",
+      "Space answer shoulder day.",
+      "Move force here know early him."
+    ],
+    "description": "Save entire sell society situation modern establish. Up college soon be. Some remain certain determine population.",
+    "comments": [
+      {
+        "author": "Bob Lee",
+        "comment": "Serious plan yes ask.",
+        "date": "2024-02-26"
+      },
+      {
+        "author": "Bob Lee",
+        "comment": "Method too your.",
+        "date": "2024-06-01"
+      },
+      {
+        "author": "John Doe",
+        "comment": "Force degree his information treatment yard.",
+        "date": "2024-04-07"
+      }
+    ],
+    "associated_links": [
+      "http://www.smith-lee.com/",
+      "https://www.brock.com/",
+      "https://www.fields.com/"
+    ],
+    "progress": 57,
+    "blockers": "Late scientist I economic third realize.",
+    "department": "QA",
+    "task_type": "documentation",
+    "absolute_priority": "medium",
+    "dependencies": [
+      "TASK-1823"
+    ]
+  },
+  {
+    "id": "TASK-9632",
+    "title": "Hour class trip here find ability.",
+    "status": "done",
+    "label": "documentation",
+    "priority": "medium",
+    "created_at": "2024-07-13",
+    "last_updated": "2024-07-25",
+    "due_date": "2024-11-04",
+    "estimated_time": "7 days",
+    "assigned_to": "John Doe",
+    "subtasks": [
+      "Address example about feel."
+    ],
+    "description": "Management film mean decade finish should entire. There past commercial piece learn here goal anyone. High support blue although.",
+    "comments": [
+      {
+        "author": "Alice Johnson",
+        "comment": "Result parent never summer what issue.",
+        "date": "2024-07-15"
+      },
+      {
+        "author": "John Doe",
+        "comment": "Nor movie every something single.",
+        "date": "2024-07-23"
+      },
+      {
+        "author": "Mike Brown",
+        "comment": "Writer white option.",
+        "date": "2024-07-15"
+      }
+    ],
+    "associated_links": [
+      "https://www.hays.info/",
+      "https://hoffman-collier.com/",
+      "http://www.bailey-henderson.com/"
+    ],
+    "progress": 76,
+    "blockers": null,
+    "department": "QA",
+    "task_type": "bug",
+    "absolute_priority": "low",
+    "dependencies": []
+  },
+  {
+    "id": "TASK-7915",
+    "title": "Former let war.",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "medium",
+    "created_at": "2024-01-28",
+    "last_updated": "2024-09-01",
+    "due_date": "2024-11-03",
+    "estimated_time": "8 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [],
+    "description": "Tell work subject message well. Third green let most.\nDaughter score son enjoy turn debate. Event thus certainly management either use. Against weight head rise including travel drive.",
+    "comments": [
+      {
+        "author": "Mike Brown",
+        "comment": "Indeed race state father.",
+        "date": "2024-06-25"
+      }
+    ],
+    "associated_links": [
+      "https://www.russell.biz/",
+      "https://sanchez-davidson.com/",
+      "https://banks-nelson.com/"
+    ],
+    "progress": 5,
+    "blockers": "Hour fine parent decide bill act.",
+    "department": "Engineering",
+    "task_type": "documentation",
+    "absolute_priority": "medium",
+    "dependencies": [
+      "TASK-9672",
+      "TASK-1197"
+    ]
+  },
+  {
+    "id": "TASK-3045",
+    "title": "Meet ten staff media story.",
+    "status": "done",
+    "label": "bug",
+    "priority": "low",
+    "created_at": "2024-06-26",
+    "last_updated": "2024-08-05",
+    "due_date": null,
+    "estimated_time": "7 days",
+    "assigned_to": "Bob Lee",
+    "subtasks": [
+      "Safe too from worker.",
+      "Argue address may thing only big drug project.",
+      "Part sense work rich enough candidate must TV.",
+      "Radio around poor region pattern career."
+    ],
+    "description": "Professor actually quickly arm production. She difference fear street kitchen local. Learn standard human fear information. Particular wish industry.",
+    "comments": [],
+    "associated_links": [
+      "https://lawrence.net/",
+      "https://perez.com/",
+      "http://www.diaz.net/"
+    ],
+    "progress": 70,
+    "blockers": null,
+    "department": "Development",
+    "task_type": "feature",
+    "absolute_priority": "medium",
+    "dependencies": [
+      "TASK-2243",
+      "TASK-1611"
+    ]
+  },
+  {
+    "id": "TASK-7244",
+    "title": "Glass pattern coach nice rate night mother.",
+    "status": "canceled",
+    "label": "bug",
+    "priority": "medium",
+    "created_at": "2024-05-12",
+    "last_updated": "2024-06-30",
+    "due_date": "2024-09-05",
+    "estimated_time": "1 days",
+    "assigned_to": "Alice Johnson",
+    "subtasks": [
+      "Charge expert husband indicate health level.",
+      "Arm other administration goal impact make edge office.",
+      "Message Mrs daughter west few significant base.",
+      "Any hospital building air."
+    ],
+    "description": "Mind part ability safe as. Establish religious onto statement. Region you Republican oil particularly.\nHotel home the enough news. Produce professional continue.",
+    "comments": [
+      {
+        "author": "Alice Johnson",
+        "comment": "Likely guess lay.",
+        "date": "2024-06-23"
+      },
+      {
+        "author": "Alice Johnson",
+        "comment": "Computer performance live more.",
+        "date": "2024-06-25"
+      }
+    ],
+    "associated_links": [
+      "https://www.flynn-brown.org/",
+      "http://www.bell.net/",
+      "https://www.harrison.com/"
+    ],
+    "progress": 63,
+    "blockers": "Century will rather military.",
+    "department": "QA",
+    "task_type": "documentation",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-7921"
+    ]
+  },
+  {
+    "id": "TASK-9006",
+    "title": "Try while none oil identify on.",
+    "status": "todo",
+    "label": "feature",
+    "priority": "medium",
+    "created_at": "2024-04-13",
+    "last_updated": "2024-07-28",
+    "due_date": "2024-08-10",
+    "estimated_time": "1 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [
+      "Voice off human thousand shake bad.",
+      "Director feeling husband shoulder."
+    ],
+    "description": "Scientist majority travel more into. Something may standard career wear. Trade audience something amount subject.",
+    "comments": [
+      {
+        "author": "John Doe",
+        "comment": "Ever same quite can big seek.",
+        "date": "2024-05-12"
+      }
+    ],
+    "associated_links": [],
+    "progress": 17,
+    "blockers": null,
+    "department": "QA",
+    "task_type": "documentation",
+    "absolute_priority": "medium",
+    "dependencies": [
+      "TASK-5040"
+    ]
+  },
+  {
+    "id": "TASK-7115",
+    "title": "Cut key front onto.",
+    "status": "backlog",
+    "label": "feature",
+    "priority": "medium",
+    "created_at": "2024-05-31",
+    "last_updated": "2024-08-06",
+    "due_date": "2024-10-18",
+    "estimated_time": "6 days",
+    "assigned_to": "Mike Brown",
+    "subtasks": [
+      "Travel scene last civil mention.",
+      "Word from heavy so beautiful thing budget culture.",
+      "After range ago speak push.",
+      "Rather rest why concern soon white."
+    ],
+    "description": "City would letter green animal. Wrong coach relate stand.\nCommunity over apply.\nKnow produce herself lose. Set garden everyone. Better enter defense project help seat wrong same.",
+    "comments": [
+      {
+        "author": "Bob Lee",
+        "comment": "Lay sister much main.",
+        "date": "2024-07-10"
+      }
+    ],
+    "associated_links": [
+      "https://wright.net/",
+      "http://www.thomas.com/"
+    ],
+    "progress": 19,
+    "blockers": "Activity natural half black.",
+    "department": "Engineering",
+    "task_type": "bug",
+    "absolute_priority": "low",
+    "dependencies": [
+      "TASK-9805",
+      "TASK-1902",
+      "TASK-4104"
+    ]
+  },
+  {
+    "id": "TASK-1704",
+    "title": "Hand remember season service movement.",
+    "status": "in progress",
+    "label": "documentation",
+    "priority": "medium",
+    "created_at": "2024-04-07",
+    "last_updated": "2024-06-11",
+    "due_date": "2024-06-18",
+    "estimated_time": "10 days",
+    "assigned_to": "Bob Lee",
+    "subtasks": [],
+    "description": "Make sign high concern debate as. Daughter history or think must possible.\nFloor these foreign. Break law whatever stuff compare medical pattern. Most evidence rich successful.",
+    "comments": [
+      {
+        "author": "Bob Lee",
+        "comment": "Book a democratic.",
+        "date": "2024-04-17"
+      },
+      {
+        "author": "Jane Smith",
+        "comment": "System address quickly medical music tree opportunity.",
+        "date": "2024-06-03"
+      }
+    ],
+    "associated_links": [
+      "http://www.rodriguez.net/"
+    ],
+    "progress": 7,
+    "blockers": "Opportunity window include parent large trip program.",
+    "department": "Development",
+    "task_type": "documentation",
+    "absolute_priority": "medium",
+    "dependencies": [
+      "TASK-9941"
+    ]
+  },
+  {
+    "id": "TASK-6156",
+    "title": "Forward rise fill analysis start spend value.",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "medium",
+    "created_at": "2024-07-19",
+    "last_updated": "2024-08-19",
+    "due_date": "2024-09-15",
+    "estimated_time": "4 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [],
+    "description": "When help reduce energy player. Lawyer detail different side be. Interesting in third size.\nProject whom suffer left forget. Contain effort main case. Clear suffer seven safe view lose.",
+    "comments": [],
+    "associated_links": [
+      "http://ruiz.biz/",
+      "http://cook.com/"
+    ],
+    "progress": 69,
+    "blockers": null,
+    "department": "QA",
+    "task_type": "bug",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-1112"
+    ]
+  },
+  {
+    "id": "TASK-8159",
+    "title": "Popular term stop.",
+    "status": "canceled",
+    "label": "documentation",
+    "priority": "medium",
+    "created_at": "2024-01-01",
+    "last_updated": "2024-09-15",
+    "due_date": "2024-11-10",
+    "estimated_time": "2 days",
+    "assigned_to": "Bob Lee",
+    "subtasks": [
+      "Through friend consumer standard be current.",
+      "Big we drop candidate year hour."
+    ],
+    "description": "Boy avoid daughter figure lot. Across style however.\nIts place final attack work. Candidate main set long ahead on pull. Tax marriage today summer focus however.",
+    "comments": [
+      {
+        "author": "Bob Lee",
+        "comment": "Skill bed many catch all should unit.",
+        "date": "2024-02-06"
+      },
+      {
+        "author": "Alice Johnson",
+        "comment": "Father serious hour continue.",
+        "date": "2024-08-06"
+      },
+      {
+        "author": "Mike Brown",
+        "comment": "Great great school tax join.",
+        "date": "2024-03-10"
+      }
+    ],
+    "associated_links": [],
+    "progress": 14,
+    "blockers": "Sometimes word sell think nearly.",
+    "department": "Development",
+    "task_type": "bug",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-5788",
+      "TASK-3985",
+      "TASK-9720"
+    ]
+  },
+  {
+    "id": "TASK-8678",
+    "title": "Thus usually commercial about plan account authority.",
+    "status": "done",
+    "label": "documentation",
+    "priority": "high",
+    "created_at": "2024-02-24",
+    "last_updated": "2024-04-19",
+    "due_date": null,
+    "estimated_time": "1 days",
+    "assigned_to": "John Doe",
+    "subtasks": [
+      "House choice remember cost we.",
+      "Case foot maybe admit.",
+      "Which especially view make protect rock."
+    ],
+    "description": "Allow vote only full success kid.\nCandidate box article effect. Owner student include much staff but paper. Leave suddenly community from popular.",
+    "comments": [
+      {
+        "author": "Mike Brown",
+        "comment": "Skill attention cut yard simply.",
+        "date": "2024-02-29"
+      },
+      {
+        "author": "Bob Lee",
+        "comment": "South can garden scientist foot use bit.",
+        "date": "2024-04-04"
+      },
+      {
+        "author": "Mike Brown",
+        "comment": "Deep issue foot enough sometimes structure.",
+        "date": "2024-04-17"
+      }
+    ],
+    "associated_links": [],
+    "progress": 56,
+    "blockers": "Detail fear true movement.",
+    "department": "QA",
+    "task_type": "feature",
+    "absolute_priority": "low",
+    "dependencies": [
+      "TASK-5647",
+      "TASK-9454"
+    ]
+  },
+  {
+    "id": "TASK-9411",
+    "title": "Last face evening development close glass identify.",
+    "status": "backlog",
+    "label": "documentation",
+    "priority": "high",
+    "created_at": "2024-01-29",
+    "last_updated": "2024-02-17",
+    "due_date": null,
+    "estimated_time": "3 days",
+    "assigned_to": "John Doe",
+    "subtasks": [
+      "Dinner need offer finish.",
+      "Project hotel theory none whatever hope."
+    ],
+    "description": "Staff window five. Edge wall understand political. Probably thousand question.\nEver any name available no his. Whatever stand even food.",
+    "comments": [
+      {
+        "author": "Bob Lee",
+        "comment": "Threat necessary bring explain set or yard.",
+        "date": "2024-02-08"
+      },
+      {
+        "author": "Bob Lee",
+        "comment": "Painting center lawyer.",
+        "date": "2024-02-05"
+      }
+    ],
+    "associated_links": [],
+    "progress": 71,
+    "blockers": null,
+    "department": "Development",
+    "task_type": "documentation",
+    "absolute_priority": "low",
+    "dependencies": [
+      "TASK-4069"
+    ]
+  },
+  {
+    "id": "TASK-5675",
+    "title": "Your stay like out between over brother.",
+    "status": "done",
+    "label": "bug",
+    "priority": "low",
+    "created_at": "2024-06-17",
+    "last_updated": "2024-06-17",
+    "due_date": null,
+    "estimated_time": "2 days",
+    "assigned_to": "Bob Lee",
+    "subtasks": [
+      "Read need debate.",
+      "Cup outside also government."
+    ],
+    "description": "Program book return move. Certainly big event heart. Sing recently friend nation bit culture.\nMonth job somebody.",
+    "comments": [
+      {
+        "author": "Bob Lee",
+        "comment": "Stuff itself respond population avoid trade young.",
+        "date": "2024-06-17"
+      }
+    ],
+    "associated_links": [],
+    "progress": 77,
+    "blockers": null,
+    "department": "Development",
+    "task_type": "bug",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-7994"
+    ]
+  },
+  {
+    "id": "TASK-8442",
+    "title": "Small care cultural material later could.",
+    "status": "backlog",
+    "label": "bug",
+    "priority": "medium",
+    "created_at": "2024-06-11",
+    "last_updated": "2024-07-13",
+    "due_date": "2024-11-16",
+    "estimated_time": "8 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [
+      "Appear compare defense risk medical.",
+      "Hour view young television.",
+      "Sister voice something happy seven beyond where seem."
+    ],
+    "description": "Energy level word sound parent front. Sit population none game hope.\nPrevent rich sign customer small. Hour budget writer hit.\nNumber need unit bad. Low statement game agree high bank.",
+    "comments": [
+      {
+        "author": "John Doe",
+        "comment": "Country sense yeah hot cultural wife record.",
+        "date": "2024-06-15"
+      },
+      {
+        "author": "John Doe",
+        "comment": "Notice apply option point mouth.",
+        "date": "2024-07-01"
+      }
+    ],
+    "associated_links": [
+      "http://www.martin.org/",
+      "http://www.rodriguez.com/",
+      "http://marshall.com/"
+    ],
+    "progress": 1,
+    "blockers": "Wife information level simply religious.",
+    "department": "QA",
+    "task_type": "bug",
+    "absolute_priority": "low",
+    "dependencies": []
+  },
+  {
+    "id": "TASK-5373",
+    "title": "Clear increase deal forget happy.",
+    "status": "canceled",
+    "label": "bug",
+    "priority": "low",
+    "created_at": "2024-07-29",
+    "last_updated": "2024-09-24",
+    "due_date": null,
+    "estimated_time": "4 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [
+      "Story plan other article town side child right.",
+      "Ask truth ever.",
+      "Article table table responsibility rule fear already mouth."
+    ],
+    "description": "Truth weight meeting yourself program work. Capital design ground fire whole wind bit.\nGood claim statement total Republican. Address oil tree once.\nAccording theory down be.",
+    "comments": [
+      {
+        "author": "Alice Johnson",
+        "comment": "Give national imagine might Democrat.",
+        "date": "2024-09-22"
+      },
+      {
+        "author": "Alice Johnson",
+        "comment": "Around Republican long way now majority worker its.",
+        "date": "2024-08-16"
+      },
+      {
+        "author": "Bob Lee",
+        "comment": "Right live hear Mrs either look.",
+        "date": "2024-09-02"
+      }
+    ],
+    "associated_links": [],
+    "progress": 12,
+    "blockers": "Animal believe responsibility according level brother hot fund.",
+    "department": "Engineering",
+    "task_type": "bug",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-2910",
+      "TASK-9548",
+      "TASK-1212"
+    ]
+  },
+  {
+    "id": "TASK-1358",
+    "title": "Threat next three focus growth marriage mouth war.",
+    "status": "done",
+    "label": "documentation",
+    "priority": "medium",
+    "created_at": "2024-03-27",
+    "last_updated": "2024-09-01",
+    "due_date": "2024-09-20",
+    "estimated_time": "7 days",
+    "assigned_to": "Alice Johnson",
+    "subtasks": [
+      "So bad avoid."
+    ],
+    "description": "Participant spring responsibility movement condition benefit red. Save fly away animal military whether go. Third put Democrat official add man before.",
+    "comments": [],
+    "associated_links": [
+      "https://jordan.info/"
+    ],
+    "progress": 38,
+    "blockers": null,
+    "department": "Engineering",
+    "task_type": "feature",
+    "absolute_priority": "low",
+    "dependencies": []
+  },
+  {
+    "id": "TASK-7757",
+    "title": "Statement lot action sing go scientist.",
+    "status": "backlog",
+    "label": "documentation",
+    "priority": "low",
+    "created_at": "2024-02-04",
+    "last_updated": "2024-08-17",
+    "due_date": null,
+    "estimated_time": "7 days",
+    "assigned_to": "Mike Brown",
+    "subtasks": [
+      "Realize probably actually fire event line.",
+      "Visit book although meeting.",
+      "Black size local section.",
+      "Concern special well involve human author modern."
+    ],
+    "description": "Mind collection shake mother skill million book agree. Foreign begin figure produce media. Perform our whether son help eat information. Like page special entire opportunity.",
+    "comments": [
+      {
+        "author": "John Doe",
+        "comment": "Establish their true name.",
+        "date": "2024-03-22"
+      }
+    ],
+    "associated_links": [
+      "http://www.campbell.com/",
+      "https://sanchez.com/",
+      "http://www.johnson.com/"
+    ],
+    "progress": 100,
+    "blockers": "Certainly eight reason represent.",
+    "department": "QA",
+    "task_type": "bug",
+    "absolute_priority": "low",
+    "dependencies": [
+      "TASK-6962",
+      "TASK-5958",
+      "TASK-9045"
+    ]
+  },
+  {
+    "id": "TASK-1907",
+    "title": "Civil while together night air it.",
+    "status": "todo",
+    "label": "feature",
+    "priority": "medium",
+    "created_at": "2024-01-20",
+    "last_updated": "2024-08-25",
+    "due_date": null,
+    "estimated_time": "5 days",
+    "assigned_to": "Bob Lee",
+    "subtasks": [],
+    "description": "Discussion wall account increase your middle in. Here best effort kind space deep information.",
+    "comments": [
+      {
+        "author": "Alice Johnson",
+        "comment": "Return side group personal couple.",
+        "date": "2024-02-05"
+      }
+    ],
+    "associated_links": [],
+    "progress": 57,
+    "blockers": null,
+    "department": "Development",
+    "task_type": "documentation",
+    "absolute_priority": "high",
+    "dependencies": []
+  },
+  {
+    "id": "TASK-8823",
+    "title": "Only form meeting nearly community.",
+    "status": "done",
+    "label": "documentation",
+    "priority": "low",
+    "created_at": "2024-04-15",
+    "last_updated": "2024-09-10",
+    "due_date": "2024-09-21",
+    "estimated_time": "3 days",
+    "assigned_to": "Alice Johnson",
+    "subtasks": [
+      "Popular inside church window data radio.",
+      "Discover book reason wide land very girl them.",
+      "Sing shake less."
+    ],
+    "description": "Wear country walk follow. Focus cause remember table. Need evidence billion.\nSuch after interest approach. Improve easy election total.",
+    "comments": [],
+    "associated_links": [
+      "https://www.green.com/"
+    ],
+    "progress": 22,
+    "blockers": "It reality debate month check sign learn.",
+    "department": "QA",
+    "task_type": "feature",
+    "absolute_priority": "low",
+    "dependencies": [
+      "TASK-9252",
+      "TASK-1419",
+      "TASK-4723"
+    ]
+  },
+  {
+    "id": "TASK-2749",
+    "title": "However since could vote space even.",
+    "status": "canceled",
+    "label": "feature",
+    "priority": "high",
+    "created_at": "2024-06-05",
+    "last_updated": "2024-09-02",
+    "due_date": "2024-10-29",
+    "estimated_time": "4 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [
+      "Day consumer adult road owner manager create."
+    ],
+    "description": "Civil dream cost maintain store structure political. Song authority until usually since.\nGive arrive beat mention. Cold institution style rise crime. Officer environment suggest accept fine every.",
+    "comments": [
+      {
+        "author": "Bob Lee",
+        "comment": "Pay determine beautiful today wide young sit.",
+        "date": "2024-08-17"
+      },
+      {
+        "author": "Mike Brown",
+        "comment": "Break month candidate.",
+        "date": "2024-07-02"
+      },
+      {
+        "author": "Jane Smith",
+        "comment": "Work strategy include very.",
+        "date": "2024-07-05"
+      }
+    ],
+    "associated_links": [
+      "http://www.bowman-patel.com/",
+      "https://www.cunningham-evans.com/",
+      "https://kim.biz/"
+    ],
+    "progress": 90,
+    "blockers": "While positive fund hundred seat attention the.",
+    "department": "Engineering",
+    "task_type": "documentation",
+    "absolute_priority": "low",
+    "dependencies": [
+      "TASK-9861"
+    ]
+  },
+  {
+    "id": "TASK-2543",
+    "title": "Call receive there find time almost.",
+    "status": "in progress",
+    "label": "bug",
+    "priority": "medium",
+    "created_at": "2024-05-06",
+    "last_updated": "2024-07-01",
+    "due_date": null,
+    "estimated_time": "9 days",
+    "assigned_to": "Bob Lee",
+    "subtasks": [
+      "Step blue challenge especially little side.",
+      "Million over reflect four price study."
+    ],
+    "description": "Seat report own law page Mrs member they. Population others admit claim officer speak a. Back fine while hot. Such value cell because without president election.",
+    "comments": [
+      {
+        "author": "Alice Johnson",
+        "comment": "Western avoid again piece military station be truth.",
+        "date": "2024-06-16"
+      },
+      {
+        "author": "John Doe",
+        "comment": "Three long hold nor fine.",
+        "date": "2024-06-01"
+      },
+      {
+        "author": "Jane Smith",
+        "comment": "Degree life research hand to view bag.",
+        "date": "2024-06-18"
+      }
+    ],
+    "associated_links": [
+      "https://www.nixon.com/",
+      "http://www.gutierrez.com/"
+    ],
+    "progress": 43,
+    "blockers": "Certainly be involve push.",
+    "department": "QA",
+    "task_type": "documentation",
+    "absolute_priority": "low",
+    "dependencies": [
+      "TASK-6128"
+    ]
+  },
+  {
+    "id": "TASK-6665",
+    "title": "Down deep seem physical use.",
+    "status": "done",
+    "label": "feature",
+    "priority": "medium",
+    "created_at": "2024-01-17",
+    "last_updated": "2024-05-13",
+    "due_date": "2024-10-29",
+    "estimated_time": "3 days",
+    "assigned_to": "John Doe",
+    "subtasks": [
+      "Huge million name."
+    ],
+    "description": "Before rest house face likely spring. Son factor hope true lot marriage.\nAlong newspaper give to million.\nMajor suddenly size my right. Management beat young themselves.",
+    "comments": [
+      {
+        "author": "Alice Johnson",
+        "comment": "Detail address receive determine.",
+        "date": "2024-01-30"
+      }
+    ],
+    "associated_links": [
+      "https://donovan-kidd.com/",
+      "http://werner.biz/",
+      "http://phillips-dawson.com/"
+    ],
+    "progress": 31,
+    "blockers": "Structure protect garden.",
+    "department": "Engineering",
+    "task_type": "documentation",
+    "absolute_priority": "low",
+    "dependencies": []
+  },
+  {
+    "id": "TASK-2924",
+    "title": "Charge watch most involve there whatever although.",
+    "status": "backlog",
+    "label": "bug",
+    "priority": "medium",
+    "created_at": "2024-05-11",
+    "last_updated": "2024-08-12",
+    "due_date": "2024-11-19",
+    "estimated_time": "3 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [
+      "Look people section Mrs.",
+      "Peace around hold young production level new.",
+      "Plant summer down control door.",
+      "Future for these one."
+    ],
+    "description": "Be under war hair prove short. Under remember seat.\nMeasure agreement half organization stay care of. Kind market near message garden around. Gas old return down.",
+    "comments": [
+      {
+        "author": "Bob Lee",
+        "comment": "Brother country make responsibility.",
+        "date": "2024-07-14"
+      },
+      {
+        "author": "Jane Smith",
+        "comment": "Thousand report maybe left.",
+        "date": "2024-07-08"
+      },
+      {
+        "author": "Bob Lee",
+        "comment": "Example admit contain adult chair benefit wonder price.",
+        "date": "2024-05-19"
+      }
+    ],
+    "associated_links": [
+      "http://www.byrd-evans.org/"
+    ],
+    "progress": 8,
+    "blockers": null,
+    "department": "Development",
+    "task_type": "feature",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-4410"
+    ]
+  },
+  {
+    "id": "TASK-2826",
+    "title": "Color draw practice sing within campaign pass everyone.",
+    "status": "backlog",
+    "label": "feature",
+    "priority": "medium",
+    "created_at": "2024-05-10",
+    "last_updated": "2024-07-10",
+    "due_date": "2024-07-23",
+    "estimated_time": "4 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [
+      "Summer always fine box hour.",
+      "Whose suffer floor senior.",
+      "Tonight fish truth speak truth to agency.",
+      "What director risk scene page page."
+    ],
+    "description": "Goal apply foreign tax bag. Dark sea kitchen action up. Down ago fire discussion Democrat station.\nArrive president left Mr TV. South determine ask market like. Mother responsibility follow back.",
+    "comments": [
+      {
+        "author": "Bob Lee",
+        "comment": "Job suddenly field interview view least.",
+        "date": "2024-06-04"
+      }
+    ],
+    "associated_links": [
+      "http://www.contreras.org/",
+      "http://freeman-welch.com/",
+      "https://www.gamble.biz/"
+    ],
+    "progress": 66,
+    "blockers": null,
+    "department": "QA",
+    "task_type": "documentation",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-8213",
+      "TASK-7567"
+    ]
+  },
+  {
+    "id": "TASK-3122",
+    "title": "New practice certain amount assume.",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "medium",
+    "created_at": "2024-02-01",
+    "last_updated": "2024-08-01",
+    "due_date": "2024-08-04",
+    "estimated_time": "3 days",
+    "assigned_to": "Mike Brown",
+    "subtasks": [],
+    "description": "Direction off add last care thank. So fall include employee.",
+    "comments": [
+      {
+        "author": "Jane Smith",
+        "comment": "Mission receive near blue push stock build positive.",
+        "date": "2024-07-01"
+      }
+    ],
+    "associated_links": [],
+    "progress": 49,
+    "blockers": null,
+    "department": "QA",
+    "task_type": "documentation",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-4511",
+      "TASK-8971"
+    ]
+  },
+  {
+    "id": "TASK-8340",
+    "title": "Claim tax very receive window.",
+    "status": "in progress",
+    "label": "bug",
+    "priority": "low",
+    "created_at": "2024-04-08",
+    "last_updated": "2024-07-12",
+    "due_date": "2024-07-21",
+    "estimated_time": "5 days",
+    "assigned_to": "John Doe",
+    "subtasks": [
+      "Various from treatment trade world smile.",
+      "Cover summer forward simply to throughout."
+    ],
+    "description": "Member new organization skill impact both year. Only charge evening station say those summer. Office side cultural pull risk treatment.",
+    "comments": [
+      {
+        "author": "Mike Brown",
+        "comment": "Hear computer politics ahead soldier serve head phone.",
+        "date": "2024-05-06"
+      },
+      {
+        "author": "Jane Smith",
+        "comment": "Which still lawyer perform member radio.",
+        "date": "2024-06-03"
+      }
+    ],
+    "associated_links": [
+      "http://sutton-fowler.com/",
+      "http://steele.com/",
+      "http://www.lindsey.com/"
+    ],
+    "progress": 86,
+    "blockers": null,
+    "department": "Engineering",
+    "task_type": "feature",
+    "absolute_priority": "medium",
+    "dependencies": []
+  },
+  {
+    "id": "TASK-9025",
+    "title": "Bill doctor drive institution.",
+    "status": "todo",
+    "label": "feature",
+    "priority": "low",
+    "created_at": "2024-04-27",
+    "last_updated": "2024-06-15",
+    "due_date": null,
+    "estimated_time": "8 days",
+    "assigned_to": "John Doe",
+    "subtasks": [
+      "Process parent hit economic property energy.",
+      "Education follow build land.",
+      "I energy any."
+    ],
+    "description": "Thought degree executive continue cell term.\nMedical imagine five change. Memory end present power spend drop sure.\nEnjoy church street attention including.",
+    "comments": [
+      {
+        "author": "John Doe",
+        "comment": "Coach debate yet actually skill.",
+        "date": "2024-05-02"
+      },
+      {
+        "author": "John Doe",
+        "comment": "Policy various while physical foreign simple responsibility.",
+        "date": "2024-05-31"
+      },
+      {
+        "author": "John Doe",
+        "comment": "Very whom surface different go well.",
+        "date": "2024-05-08"
+      }
+    ],
+    "associated_links": [
+      "https://www.bruce.biz/",
+      "https://miller-mcneil.com/"
+    ],
+    "progress": 54,
+    "blockers": null,
+    "department": "Development",
+    "task_type": "bug",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-5353"
+    ]
+  },
+  {
+    "id": "TASK-6132",
+    "title": "Age less human able he grow trial military.",
+    "status": "canceled",
+    "label": "bug",
+    "priority": "low",
+    "created_at": "2024-04-20",
+    "last_updated": "2024-06-20",
+    "due_date": null,
+    "estimated_time": "6 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [
+      "Light door easy director finish.",
+      "Those star father walk white begin grow.",
+      "You property until exactly fire another water develop.",
+      "Job choose no wide great."
+    ],
+    "description": "Might remain buy condition team audience region seat. Article across discover medical hear. Up job father person section maybe.",
+    "comments": [
+      {
+        "author": "John Doe",
+        "comment": "Theory three term sea hear point.",
+        "date": "2024-05-09"
+      },
+      {
+        "author": "John Doe",
+        "comment": "Form describe child.",
+        "date": "2024-05-31"
+      }
+    ],
+    "associated_links": [
+      "http://martinez.org/"
+    ],
+    "progress": 53,
+    "blockers": null,
+    "department": "QA",
+    "task_type": "feature",
+    "absolute_priority": "low",
+    "dependencies": [
+      "TASK-7376"
+    ]
+  },
+  {
+    "id": "TASK-4595",
+    "title": "Wait its artist keep relationship significant region contain.",
+    "status": "canceled",
+    "label": "bug",
+    "priority": "high",
+    "created_at": "2024-06-25",
+    "last_updated": "2024-08-24",
+    "due_date": "2024-09-28",
+    "estimated_time": "6 days",
+    "assigned_to": "Bob Lee",
+    "subtasks": [
+      "Director officer control."
+    ],
+    "description": "Claim federal decide debate reveal reality them.\nDrug kind letter official. Sure try all see write dark.\nSix minute television theory. Carry deal number play this.\nPeople determine just.",
+    "comments": [
+      {
+        "author": "Jane Smith",
+        "comment": "Run available recently sound current remain consider.",
+        "date": "2024-07-26"
+      },
+      {
+        "author": "John Doe",
+        "comment": "Bed have probably.",
+        "date": "2024-08-19"
+      },
+      {
+        "author": "Bob Lee",
+        "comment": "Development politics suddenly them.",
+        "date": "2024-07-10"
+      }
+    ],
+    "associated_links": [
+      "https://rodriguez.org/",
+      "http://simmons-anderson.net/",
+      "http://porter.com/"
+    ],
+    "progress": 40,
+    "blockers": "Field stand spend table service contain enter.",
+    "department": "QA",
+    "task_type": "documentation",
+    "absolute_priority": "low",
+    "dependencies": [
+      "TASK-5615"
+    ]
+  },
+  {
+    "id": "TASK-2614",
+    "title": "Fact talk yes anyone yourself benefit.",
+    "status": "in progress",
+    "label": "documentation",
+    "priority": "low",
+    "created_at": "2024-02-25",
+    "last_updated": "2024-09-13",
+    "due_date": null,
+    "estimated_time": "1 days",
+    "assigned_to": "Mike Brown",
+    "subtasks": [
+      "Trip evidence course material.",
+      "Enough wrong develop tell professional.",
+      "For through herself fine area recent step."
+    ],
+    "description": "Issue support figure. Word white turn week.\nCharge end hand policy. Keep size door respond side.",
+    "comments": [
+      {
+        "author": "John Doe",
+        "comment": "Book process pay firm rule.",
+        "date": "2024-05-19"
+      }
+    ],
+    "associated_links": [
+      "https://www.marquez-coleman.net/",
+      "https://www.keller.net/",
+      "https://www.matthews.com/"
+    ],
+    "progress": 16,
+    "blockers": null,
+    "department": "Development",
+    "task_type": "documentation",
+    "absolute_priority": "medium",
+    "dependencies": [
+      "TASK-9786",
+      "TASK-7474"
+    ]
+  },
+  {
+    "id": "TASK-4962",
+    "title": "History degree turn onto stand product share.",
+    "status": "backlog",
+    "label": "bug",
+    "priority": "medium",
+    "created_at": "2024-04-01",
+    "last_updated": "2024-07-08",
+    "due_date": "2024-11-19",
+    "estimated_time": "5 days",
+    "assigned_to": "Mike Brown",
+    "subtasks": [
+      "Think music apply keep perform size local."
+    ],
+    "description": "Former everything book gun force more ago. Parent go effect cut.\nWater million occur nothing coach. Sure dog outside unit play. Region face blue region know career.",
+    "comments": [],
+    "associated_links": [
+      "http://parker.info/",
+      "http://chan.com/"
+    ],
+    "progress": 78,
+    "blockers": "Always anything provide dream benefit send.",
+    "department": "Development",
+    "task_type": "bug",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-7228",
+      "TASK-3385"
+    ]
+  },
+  {
+    "id": "TASK-7632",
+    "title": "Alone bring keep open way.",
+    "status": "canceled",
+    "label": "documentation",
+    "priority": "high",
+    "created_at": "2024-04-27",
+    "last_updated": "2024-07-02",
+    "due_date": null,
+    "estimated_time": "1 days",
+    "assigned_to": "Alice Johnson",
+    "subtasks": [
+      "Everyone rich yard see kitchen.",
+      "Me seat street candidate but activity final."
+    ],
+    "description": "Hair manager election station reduce stop reduce. Nice simple toward main forward. Whom red simple least.\nPositive right effect decide. Leave big property gas mean less whatever plant.",
+    "comments": [
+      {
+        "author": "Mike Brown",
+        "comment": "Total only authority share soon reach save certainly.",
+        "date": "2024-05-14"
+      },
+      {
+        "author": "John Doe",
+        "comment": "Official style course.",
+        "date": "2024-06-01"
+      }
+    ],
+    "associated_links": [],
+    "progress": 56,
+    "blockers": "Deal history executive improve it quality.",
+    "department": "Development",
+    "task_type": "documentation",
+    "absolute_priority": "medium",
+    "dependencies": [
+      "TASK-2209",
+      "TASK-5426",
+      "TASK-6375"
+    ]
+  },
+  {
+    "id": "TASK-3624",
+    "title": "Possible bed operation common name else.",
+    "status": "todo",
+    "label": "bug",
+    "priority": "high",
+    "created_at": "2024-05-05",
+    "last_updated": "2024-06-28",
+    "due_date": "2024-10-01",
+    "estimated_time": "8 days",
+    "assigned_to": "Bob Lee",
+    "subtasks": [
+      "Be suddenly individual take where industry chance Democrat.",
+      "Baby bar structure country.",
+      "Thank about artist some."
+    ],
+    "description": "Present realize strategy. None person three since.\nTrouble shake trouble two family. Actually guess conference thus offer. Final own dog.\nDefense some in world. Let artist son politics.",
+    "comments": [
+      {
+        "author": "Alice Johnson",
+        "comment": "Street follow certain notice social.",
+        "date": "2024-06-03"
+      }
+    ],
+    "associated_links": [
+      "http://www.perez.biz/",
+      "https://little.com/"
+    ],
+    "progress": 76,
+    "blockers": null,
+    "department": "Development",
+    "task_type": "documentation",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-3912",
+      "TASK-9729",
+      "TASK-9024"
+    ]
+  },
+  {
+    "id": "TASK-7796",
+    "title": "Size pass imagine central week.",
+    "status": "backlog",
+    "label": "feature",
+    "priority": "medium",
+    "created_at": "2024-07-11",
+    "last_updated": "2024-09-27",
+    "due_date": null,
+    "estimated_time": "7 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [
+      "Culture every father my American share ok."
+    ],
+    "description": "Fear firm his. Question when usually federal little. Carry foot yes however. Common practice game the course act difficult north.\nTonight foreign never baby reduce. Threat marriage what social sure.",
+    "comments": [
+      {
+        "author": "Jane Smith",
+        "comment": "Read change last manage.",
+        "date": "2024-08-31"
+      },
+      {
+        "author": "Alice Johnson",
+        "comment": "Deep service movie town argue area.",
+        "date": "2024-08-04"
+      }
+    ],
+    "associated_links": [],
+    "progress": 54,
+    "blockers": "Shoulder maintain while positive.",
+    "department": "Development",
+    "task_type": "feature",
+    "absolute_priority": "medium",
+    "dependencies": [
+      "TASK-7534",
+      "TASK-5677"
+    ]
+  },
+  {
+    "id": "TASK-4491",
+    "title": "Lose piece choice have million quickly ever sort.",
+    "status": "in progress",
+    "label": "bug",
+    "priority": "low",
+    "created_at": "2024-06-15",
+    "last_updated": "2024-08-21",
+    "due_date": null,
+    "estimated_time": "7 days",
+    "assigned_to": "Mike Brown",
+    "subtasks": [
+      "Bar important point total foot same.",
+      "Any season doctor leader bank.",
+      "Bit woman surface economy.",
+      "Often street especially significant foreign."
+    ],
+    "description": "Else nor camera subject generation scientist. Expert worker professor various improve approach.\nVisit sell keep free staff north chance. Soon store light task paper scene. Music yes citizen large.",
+    "comments": [
+      {
+        "author": "Mike Brown",
+        "comment": "Door church test as see responsibility I.",
+        "date": "2024-08-08"
+      },
+      {
+        "author": "Alice Johnson",
+        "comment": "Town in Democrat compare first mean.",
+        "date": "2024-07-24"
+      },
+      {
+        "author": "Bob Lee",
+        "comment": "Five available foot avoid.",
+        "date": "2024-06-30"
+      }
+    ],
+    "associated_links": [
+      "https://johnson.org/"
+    ],
+    "progress": 53,
+    "blockers": null,
+    "department": "Engineering",
+    "task_type": "documentation",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-1393",
+      "TASK-9251"
+    ]
+  },
+  {
+    "id": "TASK-9911",
+    "title": "After stop participant message design medical some.",
+    "status": "todo",
+    "label": "bug",
+    "priority": "high",
+    "created_at": "2024-01-20",
+    "last_updated": "2024-08-01",
+    "due_date": "2024-10-16",
+    "estimated_time": "1 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [
+      "Language keep parent strong series single.",
+      "Than into arm development assume.",
+      "Eye not those."
+    ],
+    "description": "Increase spend personal themselves. Hand significant stage expect generation truth sell.\nCandidate order movie fine marriage. Middle visit yes sign accept year. Treat break PM fill physical could.",
+    "comments": [],
+    "associated_links": [
+      "https://grant.info/",
+      "http://donovan-cole.com/",
+      "http://www.garcia-bruce.com/"
+    ],
+    "progress": 35,
+    "blockers": "Town race attention although best stop risk sell.",
+    "department": "QA",
+    "task_type": "feature",
+    "absolute_priority": "medium",
+    "dependencies": [
+      "TASK-6619"
+    ]
+  },
+  {
+    "id": "TASK-4309",
+    "title": "Worry along challenge agency.",
+    "status": "backlog",
+    "label": "feature",
+    "priority": "medium",
+    "created_at": "2024-01-24",
+    "last_updated": "2024-06-18",
+    "due_date": "2024-09-15",
+    "estimated_time": "8 days",
+    "assigned_to": "John Doe",
+    "subtasks": [],
+    "description": "Drop start travel stuff. Write evidence strategy consumer.\nInvolve both policy dream parent floor state. Site ten evening line can hospital.",
+    "comments": [
+      {
+        "author": "Mike Brown",
+        "comment": "Catch reality personal huge top.",
+        "date": "2024-02-25"
+      }
+    ],
+    "associated_links": [
+      "https://www.hayes-ellis.com/",
+      "https://farmer.net/"
+    ],
+    "progress": 49,
+    "blockers": "Give majority media.",
+    "department": "Engineering",
+    "task_type": "feature",
+    "absolute_priority": "high",
+    "dependencies": [
+      "TASK-8418",
+      "TASK-4631"
+    ]
+  },
+  {
+    "id": "TASK-9383",
+    "title": "Whether huge treatment now way.",
+    "status": "done",
+    "label": "bug",
+    "priority": "low",
+    "created_at": "2024-07-13",
+    "last_updated": "2024-08-27",
+    "due_date": "2024-10-20",
+    "estimated_time": "9 days",
+    "assigned_to": "Jane Smith",
+    "subtasks": [],
+    "description": "Ever rule message water break. Another recently team feel billion. Far best maintain ground.",
+    "comments": [
+      {
+        "author": "Jane Smith",
+        "comment": "Friend conference particularly book cut happen.",
+        "date": "2024-07-25"
+      }
+    ],
+    "associated_links": [],
+    "progress": 50,
+    "blockers": "Result source list company budget account.",
+    "department": "Engineering",
+    "task_type": "bug",
+    "absolute_priority": "low",
+    "dependencies": [
+      "TASK-3460",
+      "TASK-3925",
+      "TASK-2988"
+    ]
+  },
+  {
+    "id": "TASK-4813",
+    "title": "Book address the lead car.",
+    "status": "backlog",
+    "label": "feature",
+    "priority": "high",
+    "created_at": "2024-05-28",
+    "last_updated": "2024-07-20",
+    "due_date": null,
+    "estimated_time": "5 days",
+    "assigned_to": "John Doe",
+    "subtasks": [
+      "Before main return decade foreign prove.",
+      "Hear politics meet daughter cover a firm expert.",
+      "Product enter memory within dark point newspaper."
+    ],
+    "description": "Current new indeed guy simply range.\nThey left find evening describe still responsibility. Wait mention care sign. Look image him ground.",
+    "comments": [
+      {
+        "author": "John Doe",
+        "comment": "Audience car go note project glass computer relationship.",
+        "date": "2024-07-17"
+      },
+      {
+        "author": "John Doe",
+        "comment": "Traditional shake list economy son four defense.",
+        "date": "2024-07-14"
+      }
+    ],
+    "associated_links": [],
+    "progress": 38,
+    "blockers": "Couple writer experience tree.",
+    "department": "QA",
+    "task_type": "feature",
+    "absolute_priority": "medium",
+    "dependencies": [
+      "TASK-3280"
+    ]
+  },
+  {
+    "id": "TASK-1147",
+    "title": "Machine two serve too either since by.",
+    "status": "canceled",
+    "label": "feature",
+    "priority": "medium",
+    "created_at": "2024-05-31",
+    "last_updated": "2024-08-15",
+    "due_date": "2024-09-01",
+    "estimated_time": "9 days",
+    "assigned_to": "Bob Lee",
+    "subtasks": [
+      "Stage challenge or never cut.",
+      "Sort quality themselves thousand word player stop article.",
+      "Figure amount investment particular answer speak relationship.",
+      "Maintain Mr after everybody."
+    ],
+    "description": "Create seat ball bad. Section view must door sort wife. Build skin seven after.\nWide road rather.\nFactor less matter go. Nature pass prevent who you. Room degree which keep none effort.",
+    "comments": [],
+    "associated_links": [
+      "https://cardenas-jackson.org/",
+      "https://www.reed-delgado.net/",
+      "http://www.little.com/"
+    ],
+    "progress": 1,
+    "blockers": "Remember ready eat subject upon like.",
+    "department": "QA",
+    "task_type": "bug",
+    "absolute_priority": "medium",
+    "dependencies": [
+      "TASK-8560",
+      "TASK-9318",
+      "TASK-4299"
+    ]
+  },
+  {
+    "id": "TASK-2246",
+    "title": "Listen very wish.",
+    "status": "backlog",
+    "label": "bug",
+    "priority": "high",
+    "created_at": "2024-02-18",
+    "last_updated": "2024-04-28",
+    "due_date": null,
+    "estimated_time": "6 days",
+    "assigned_to": "Bob Lee",
+    "subtasks": [
+      "Our story begin peace.",
+      "Tax investment pass look subject.",
+      "Great leader network.",
+      "Whether tell staff stop everything water."
+    ],
+    "description": "Name national organization example. Old image here meeting green spend strong.\nShoulder speak old. Nice school the stuff son manage line.",
+    "comments": [
+      {
+        "author": "Bob Lee",
+        "comment": "Class marriage important chance central coach rule.",
+        "date": "2024-03-18"
+      }
+    ],
+    "associated_links": [
+      "http://ortega.com/"
+    ],
+    "progress": 32,
+    "blockers": null,
+    "department": "QA",
+    "task_type": "documentation",
+    "absolute_priority": "low",
+    "dependencies": []
+  },
+  {
+    "id": "TASK-1188",
+    "title": "Part order race window attention.",
+    "status": "todo",
+    "label": "feature",
+    "priority": "medium",
+    "created_at": "2024-05-05",
+    "last_updated": "2024-06-07",
+    "due_date": "2024-09-24",
+    "estimated_time": "3 days",
+    "assigned_to": "Mike Brown",
+    "subtasks": [
+      "Phone wait tree investment agree mouth nothing reveal.",
+      "Interest they color rise there.",
+      "Occur each pass yard cut."
+    ],
+    "description": "Great still area live. Center base listen speak TV.\nAlong if organization often scientist pretty natural might. Series spring building have.",
+    "comments": [
+      {
+        "author": "Mike Brown",
+        "comment": "Method reveal physical certain those suggest three.",
+        "date": "2024-05-11"
+      }
+    ],
+    "associated_links": [
+      "https://taylor.net/",
+      "https://banks.org/"
+    ],
+    "progress": 7,
+    "blockers": "Paper about back key community specific film.",
+    "department": "Development",
+    "task_type": "documentation",
+    "absolute_priority": "high",
+    "dependencies": []
+  },
+  {
+    "id": "TASK-5898",
+    "title": "Fly put within improve chair see culture.",
+    "status": "done",
+    "label": "bug",
+    "priority": "medium",
+    "created_at": "2024-02-13",
+    "last_updated": "2024-07-02",
+    "due_date": null,
+    "estimated_time": "9 days",
+    "assigned_to": "Alice Johnson",
+    "subtasks": [
+      "Long natural dog stock develop most.",
+      "Book administration conference American learn tend."
+    ],
+    "description": "Yeah occur site million while hand certain. Administration recent clear rise team meet final well.\nThere become those service beat. Statement present interview present if. Smile walk eye home.",
+    "comments": [],
+    "associated_links": [
+      "http://peters.com/",
+      "https://valenzuela.com/"
+    ],
+    "progress": 57,
+    "blockers": "Suffer wall edge hope much.",
+    "department": "Development",
+    "task_type": "bug",
+    "absolute_priority": "high",
+    "dependencies": []
+  },
+  {
+    "id": "TASK-7326",
+    "title": "Recently economy save station.",
+    "status": "canceled",
+    "label": "documentation",
+    "priority": "low",
+    "created_at": "2024-05-26",
+    "last_updated": "2024-07-25",
+    "due_date": "2024-11-10",
+    "estimated_time": "1 days",
+    "assigned_to": "Bob Lee",
+    "subtasks": [
+      "Him customer in word organization yes."
+    ],
+    "description": "Receive brother get and first history occur turn. How play color course possible after. Administration police anything section.\nEver always key certain. Onto war wide hard left leg yes.",
+    "comments": [],
+    "associated_links": [
+      "https://www.ortiz-lee.net/"
+    ],
+    "progress": 17,
+    "blockers": null,
+    "department": "QA",
+    "task_type": "feature",
+    "absolute_priority": "low",
+    "dependencies": [
+      "TASK-9464"
+    ]
+  }
+]
